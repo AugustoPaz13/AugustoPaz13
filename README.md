@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/V69p8pU9XUvO8/giphy.gif" alt="Twice Wave" width="350">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlsbWp5aGJpemt5azFleXR3NmNvMzEzNjVwYWl0ZW93c21qanY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ofT5AAzPB0x9IwVOw/giphy.gif" alt="Twice Wave" width="350">
 </p>
 
 ---
@@ -19,11 +19,17 @@ Soy un apasionado del desarrollo back-end, enfocado en construir sistemas escala
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
     ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) 
-    ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 * **Back-end:** `Spring Boot`, `Spring Data JPA`, `Hibernate`.
 * **Gestión & Metodologías:** `SCRUM`, `Trello`, `Git` & `GitHub`.
-* **Idiomas:** Español (Nativo), Inglés (Nivel B2), Japonés (Nivel inicial A2).
+
+---
+
+### 🌐 Idiomas
+
+* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/argentina.gif" width="20"> **Español:** Nativo `(Argentina)`
+* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/united-states.gif" width="20"> **Inglés:** Nivel `B2`
+* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/japan.gif" width="20"> **Japonés:** Nivel inicial `A2`
 
 ---
 ### 💡 Sobre mí
