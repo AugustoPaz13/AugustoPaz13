@@ -27,9 +27,9 @@ Soy un apasionado del desarrollo back-end, enfocado en construir sistemas escala
 
 ### 🌐 Idiomas
 
-* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/argentina.gif" width="20"> **Español:** Nativo `(Argentina)`
-* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/united-states.gif" width="20"> **Inglés:** Nivel `B2`
-* <img src="https://raw.githubusercontent.com/nelsonfritsch/nelsonfritsch/master/assets/japan.gif" width="20"> **Japonés:** Nivel inicial `A2`
+* <img src="" width="20"> **Español:** Nativo `(Argentina)`
+* <img src=""> **Inglés:** Nivel `B2`
+* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxcm1hcjZ2bzV5amo3djFvZ242aDkydWo0ZTA2OWsyZWhuZ2N2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PIsKHZKVImYoAnF4YR/giphy.gif" width="20"> **Japonés:** Nivel inicial `A2`
 
 ---
 ### 💡 Sobre mí
