@@ -1,6 +1,8 @@
-<div class="tenor-gif-embed" data-postid="12560779" data-share-method="host" data-aspect-ratio="1.41615" data-width="100%"><a href="https://tenor.com/view/twice-wave-hi-gif-12560779">Twice Wave GIF</a>from <a href="https://tenor.com/search/twice-gifs">Twice GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/images/3f18e8749a5b3a4a98402c5c9359e99c/tenor.gif" alt="Twice Wave" width="350">
+</p>
 
-<hr>
+---
 
 # 🚀 Hola, soy Augusto Ignacio Paz
 
@@ -26,7 +28,7 @@ Soy un apasionado del desarrollo back-end, enfocado en construir sistemas escala
 ---
 
 ### 📫 Contacto
-*   **Email:** [augustoignaciopaz@gmail.com]
+*   **Email:** `augustoignaciopaz@gmail.com`
 
 ---
 
