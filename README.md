@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/es/view/twice-wave-hi-gif-12560779" alt="Saludo Twice" width="200">
+  <img src="https://tenor.com/0RNn.gif" alt="Saludo Twice" width="200">
 </p>
 
 ---
