@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://tenor.com/0RNn.gif" alt="Saludo Twice" width="200">
-</p>
+<div class="tenor-gif-embed" data-postid="12560779" data-share-method="host" data-aspect-ratio="1.41615" data-width="100%"><a href="https://tenor.com/view/twice-wave-hi-gif-12560779">Twice Wave GIF</a>from <a href="https://tenor.com/search/twice-gifs">Twice GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
----
+<hr>
 
 # 🚀 Hola, soy Augusto Ignacio Paz
 
@@ -19,13 +17,6 @@ Soy un apasionado del desarrollo back-end, enfocado en construir sistemas escala
 *   **Idiomas:** Español (Nativo), Ingles (Nivel B2) Japonés (Nivel inicial A2).
 
 ---
-### 📊 GitHub Stats
-
-![Stats de Augusto](https://github-readme-stats.vercel.app/api?username=[AugustoPaz13]&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[AugustoPaz13]&layout=compact&theme=radical)
-
----
-
 ### 💡 Sobre mí
 
 *   🧩 **Personalidad:** Perfil analítico e independiente, orientado a la resolución lógica de problemas.
