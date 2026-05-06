@@ -28,7 +28,7 @@ Soy un apasionado del desarrollo back-end, enfocado en construir sistemas escala
 ### 🌐 Idiomas
 
 * <img src="argentine-flag.gif" width="20"> **Español:** Nativo `(Argentina)`
-* <img src="united-kingdom.gif"> **Inglés:** Nivel `B2`
+* <img src="united-kingdom.gif" width="20"> **Inglés:** Nivel `B2`
 * <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxcm1hcjZ2bzV5amo3djFvZ242aDkydWo0ZTA2OWsyZWhuZ2N2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PIsKHZKVImYoAnF4YR/giphy.gif" width="20"> **Japonés:** Nivel inicial `A2`
 
 ---
